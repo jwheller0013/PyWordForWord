@@ -8,6 +8,9 @@ class TextProcessing():
     #making sure all the newlines are preserved.
     def file_to_string(filename):
         pass
+        with open(filename, 'r') as file:
+            result_string = file.read()
+        return result_string
 
     #count the number of characters in a file, number of words, number of lines
     #Returns an tuple with the number of lines, words and characters
@@ -26,3 +29,7 @@ class TextProcessing():
     #numberOfOccurences / totalNumberOfWords
     def frequency(word):
         pass
+
+# test = TextProcessing()
+#
+# test.file_to_string('testdata0.text')
