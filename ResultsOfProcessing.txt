@@ -1,0 +1,63 @@
+testdata6.txt
+(77, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatatestdata6txt': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 2, 's': 5, 'r': 5, 'j': 2, 'm': 1, 'p': 3, 'o': 6, 'c': 1, 't': 10, 'y': 1, 'w': 2, 'd': 5, 'a': 4, 'x': 1, 'n': 2}
+
+
+
+testdata7.txt
+(77, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatatestdata7txt': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 2, 's': 5, 'r': 5, 'j': 2, 'm': 1, 'p': 3, 'o': 6, 'c': 1, 't': 10, 'y': 1, 'w': 2, 'd': 5, 'a': 4, 'x': 1, 'n': 2}
+
+
+
+testdata4.txt
+(77, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatatestdata4txt': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 2, 's': 5, 'r': 5, 'j': 2, 'm': 1, 'p': 3, 'o': 6, 'c': 1, 't': 10, 'y': 1, 'w': 2, 'd': 5, 'a': 4, 'x': 1, 'n': 2}
+
+
+
+testdata0.txt
+(77, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatatestdata0txt': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 2, 's': 5, 'r': 5, 'j': 2, 'm': 1, 'p': 3, 'o': 6, 'c': 1, 't': 10, 'y': 1, 'w': 2, 'd': 5, 'a': 4, 'x': 1, 'n': 2}
+
+
+
+testdata1.txt
+(77, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatatestdata1txt': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 2, 's': 5, 'r': 5, 'j': 2, 'm': 1, 'p': 3, 'o': 6, 'c': 1, 't': 10, 'y': 1, 'w': 2, 'd': 5, 'a': 4, 'x': 1, 'n': 2}
+
+
+
+testdata3.txt
+(77, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatatestdata3txt': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 2, 's': 5, 'r': 5, 'j': 2, 'm': 1, 'p': 3, 'o': 6, 'c': 1, 't': 10, 'y': 1, 'w': 2, 'd': 5, 'a': 4, 'x': 1, 'n': 2}
+
+
+
+testdata2.txt
+(77, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatatestdata2txt': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 2, 's': 5, 'r': 5, 'j': 2, 'm': 1, 'p': 3, 'o': 6, 'c': 1, 't': 10, 'y': 1, 'w': 2, 'd': 5, 'a': 4, 'x': 1, 'n': 2}
+
+
+
+testdata5a.txt
+(78, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatatestdata5atxt': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 2, 's': 5, 'r': 5, 'j': 2, 'm': 1, 'p': 3, 'o': 6, 'c': 1, 't': 10, 'y': 1, 'w': 2, 'd': 5, 'a': 5, 'x': 1, 'n': 2}
+
+
+
+.jupyter
+(72, 4, 0)
+{'file': 1, 'usersjimprojectsp1pywordforwordtestdatajupyter': 1, 'not': 1, 'found': 1}
+{'f': 3, 'i': 2, 'l': 1, 'e': 5, 'u': 3, 's': 4, 'r': 6, 'j': 3, 'm': 1, 'p': 4, 'o': 6, 'c': 1, 't': 6, 'y': 2, 'w': 2, 'd': 4, 'a': 2, 'n': 2}
+
+
+
